@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace MSUnitTests.Model
 {
+    // something different comment
     public class Employee
     {
         public string GetName(string firstName, string lastName)
